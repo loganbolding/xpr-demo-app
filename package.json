@@ -1,0 +1,11 @@
+{
+  "name": "xpr-demo-app",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "dependencies": {
+    "xpr-demo-crypto": "github:loganbolding/xpr-demo-crypto",
+    "xpr-demo-sensor": "github:loganbolding/xpr-demo-sensor"
+  }
+}
